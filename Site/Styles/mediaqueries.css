@@ -693,6 +693,10 @@
     .menu-btn {
         top: 2.4%;
     }
+    .nav-bar ul.nav-bar-ul.show {
+        transform: translateX(0px);
+        transform: translateY(56px);
+    }
 /* Copyright */
     .copyright {
         font-size: 14px;
