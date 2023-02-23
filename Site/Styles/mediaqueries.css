@@ -470,7 +470,7 @@
     }
     .nav-bar ul.nav-bar-ul.show {
         transform: translateX(0px);
-        transform: translateY(70px);
+        transform: translateY(57px);
     }
     .nav-bar-a {
         width: 100%;
@@ -694,7 +694,10 @@
         top: 2.4%;
     }
     .nav-bar ul.nav-bar-ul.show {
-        transform: translateY(56px);
+        transform: translateY(55px);
+    }
+    .contenedor .btn i {
+        line-height: 37px;
     }
 /* Copyright */
     .copyright {
