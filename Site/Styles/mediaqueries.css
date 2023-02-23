@@ -695,7 +695,7 @@
     }
     .nav-bar ul.nav-bar-ul.show {
         transform: translateX(0px);
-        transform: translateY(56px);
+        transform: translateY(55px);
     }
 /* Copyright */
     .copyright {
