@@ -406,9 +406,9 @@
         display: block;
     }
     .toggler {
-        display: block;
         top: 2%;
-        left: 85%;
+        left: 82.5%;
+        display: block;
     }
     .menu-btn {
         left: 0%;
@@ -470,7 +470,7 @@
     }
     .nav-bar ul.nav-bar-ul.show {
         transform: translateX(0px);
-        transform: translateY(57px);
+        transform: translateY(70px);
     }
     .nav-bar-a {
         width: 100%;
@@ -689,7 +689,6 @@
 /* Header */
     .toggler {
         top: 2.5%;
-        left: 82.5%;
     }
     .menu-btn {
         top: 2.4%;
